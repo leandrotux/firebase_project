@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065844939847",
+    "project_id": "fir-bbd12",
+    "storage_bucket": "fir-bbd12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065844939847:android:b1e792606d6f8e36f1a562",
+        "android_client_info": {
+          "package_name": "com.sertaodev.firebase_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065844939847-83sbl8jsk0fudivmmteegfaeh4ktok64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_vL8lVMwU-80o9qzyN6nBA64-AMzggzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065844939847-83sbl8jsk0fudivmmteegfaeh4ktok64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
